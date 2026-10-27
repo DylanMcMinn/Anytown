@@ -1,0 +1,11 @@
+B|2 High Street|Car Park||
+B|3 Low Street|Council Offices||
+B|4 Main Street|Public Park||
+H|12 High Street|Mickey Mouse|3|false
+H|13 Low Street|Donald Duck|4|true
+H|14 Main Street|Fred Flintstone|3|true
+H|15 Main Street|Barney Rubble|2|false
+S|32 High Street|Homer's News|7|250
+S|33 Low Street|Marge Simpson Hair|3|100
+S|34 Main Street|Barney's Bar|5|700
+S|45 Main Street|Nuclear Power Plant|80|2000
